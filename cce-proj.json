@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 17,
+    "yaml.schemas": {
+        "file:///Users/test/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "diffEditor.renderSideBySide": false,
+    "workbench.editor.enablePreview": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": -1
+}
